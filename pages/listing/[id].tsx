@@ -39,7 +39,7 @@ export default function SSGPage({ data }: { data: SSRPageProps[] }) {
   if (!data)
     return (
       <div className="flex items-center justify-center h-screen">
-        Loading 🚨 ...
+        Loading 🚨 🚨 🚨 ...
       </div>
     );
 
